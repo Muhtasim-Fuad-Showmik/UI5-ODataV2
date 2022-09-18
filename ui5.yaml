@@ -1,0 +1,4 @@
+specVersion: '2.6'
+metadata:
+  name: sap.ui.core.tutorial.mockserver.01
+type: application
